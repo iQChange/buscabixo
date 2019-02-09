@@ -1,0 +1,11 @@
+Para compilar o código fonte, você precisará do Python 3+.
+Tendo ele instalado, execute os seguintes comandos no diretório do script:
+
+> pip install pyinstaller
+> pyinstaller --onefile --icon=./ico/UNICAMP.ico buscabixo.py
+
+O programa resultante ficará na pasta 'dist'.
+
+NOTA: OS DIREITOS AUTORAIS DA IMAGEM "UNICAMP.ico" NÃO ME PERTENCEM; SEU USO DEVERÁ SER FEITO ESTRITAMENTE COM A PERMISSÃO DA UNIVERSIDADE ESTADUAL DE CAMPINAS.
+
+Lucas Henrique
